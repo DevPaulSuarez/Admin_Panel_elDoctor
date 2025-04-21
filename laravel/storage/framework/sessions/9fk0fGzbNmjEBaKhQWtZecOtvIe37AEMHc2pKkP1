@@ -1,0 +1,1 @@
+a:4:{s:12:"current_user";a:4:{s:2:"id";i:1;s:6:"nombre";s:5:"Admin";s:5:"email";s:17:"admin@example.com";s:3:"rol";s:5:"admin";}s:6:"_token";s:40:"dVe3jAFaBLC8PPM6G5ltMZkAlOXYVN7q00SZK93u";s:9:"_previous";a:1:{s:3:"url";s:60:"http://127.0.0.1:8000/plantillas/medicamentos-especialidades";}s:6:"_flash";a:2:{s:3:"old";a:0:{}s:3:"new";a:0:{}}}
